@@ -1,9 +1,11 @@
 {
   "name": "language-lex-flex",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Lex and Flex syntax highlight",
   "keywords": [
-	  "lex", "flex", "language"
+    "lex",
+    "flex",
+    "language"
   ],
   "repository": "https://github.com/acidghost/language-lex-flex-new",
   "license": "MIT",
