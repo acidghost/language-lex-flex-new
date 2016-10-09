@@ -1,6 +1,6 @@
 {
   "name": "language-lex-flex",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Lex and Flex syntax highlight",
   "keywords": [
     "lex",
